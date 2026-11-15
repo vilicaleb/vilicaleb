@@ -221,7 +221,7 @@ ${{\color{#C04C21}\tiny{\textsf{do not spam my dms if you are a friend of mine i
 <br><br>
 
 <p align="center">
-<a href="https://www.tumblr.com/yourlocalellernate">
+<a href="https://www.tumblr.com/pwnedbyolixx">
 <picture>
 <img width="150" height="80" alt="image" src="https://github.com/user-attachments/assets/26b734ec-444a-4a5f-89f2-55d3cc8fb037" />
 </picture>
