@@ -214,18 +214,8 @@ ${{\color{#C04C21}\tiny{\textsf{do not spam my dms if you are a friend of mine i
 <br><br>
 
 <p align="center">
-<a href="https://www.tumblr.com/pwnedbyolixx">
-<picture>
-<img width="150" height="80" alt="image" src="https://github.com/user-attachments/assets/26b734ec-444a-4a5f-89f2-55d3cc8fb037" />
-</picture>
-</a>
-
-<p align="center">
-<a href="[https://www.tumblr.com/pwnedbyolixx](https://pronouns.cc/@vilicaleb)">
-<picture>
-<img width="150" height="80" alt="image" src="https://github.com/user-attachments/assets/85f61b24-28d5-4e13-ba1f-5e9a82f7eb56" />
-</picture>
-</a>
+<a href="https://www.tumblr.com/pwnedbyolixx"> <picture><img width="150" height="80" alt="image" src="https://github.com/user-attachments/assets/26b734ec-444a-4a5f-89f2-55d3cc8fb037" /></picture> </a>
+<a href="https://pronouns.cc/@vilicaleb"> <picture><img width="150" height="80" alt="image" src="https://github.com/user-attachments/assets/85f61b24-28d5-4e13-ba1f-5e9a82f7eb56" /></picture> </a>
 
 
 <br><br>
