@@ -67,13 +67,13 @@ ${{\color{#C04C21}\tiny{\textsf{i always interact first.}}}}$ <br>
 <summary>${{\color{#C04C21}\huge{\textsf{mental stuff…}}}}$</summary>
 <br>
 
-${{\color{#C04C21}\normalsize{\textsf{rapid mood swing}}}}$ <br>
-
-${{\color{#C04C21}\normalsize{\textsf{emotional shifts}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{maladaptive perfectionism}}}}$ <br>
 
 ${{\color{#C04C21}\normalsize{\textsf{emotional dysregulation}}}}$ <br>
 
-${{\color{#C04C21}\normalsize{\textsf{maladaptive perfectionism}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{emotional shifts}}}}$ <br>
+
+${{\color{#C04C21}\normalsize{\textsf{rapid mood swing}}}}$ <br>
 
 ${{\color{#C04C21}\normalsize{\textsf{overthinking}}}}$ <br>
  
