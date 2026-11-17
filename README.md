@@ -161,6 +161,7 @@ ${{\color{#C04C21}\tiny{\textsf{besides if you like caleb244s avatar and not the
 
 <br><br>
 
+<!-- boundaries -->
 <div align="center"> 
 <details>
 <summary>${{\color{#C04C21}\huge{\textsf{𝘽𝙊𝙐𝙉𝘿𝘼𝙍𝙄𝙀𝙎}}}}$</summary>
@@ -178,6 +179,7 @@ ${{\color{#C04C21}\tiny{\textsf{do not call me “dear” please it triggers me.
 
 <br>
 </details>
+<!-- boundaries -->
 
 <br><br>
 
