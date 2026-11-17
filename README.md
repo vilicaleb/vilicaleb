@@ -67,7 +67,6 @@ ${{\color{#C04C21}\tiny{\textsf{i always interact first.}}}}$ <br>
 <summary>${{\color{#C04C21}\huge{\textsf{mental stuff…}}}}$</summary>
 <br>
 
-<p align="left">
 ${{\color{#C04C21}\normalsize{\textsf{rapid mood swing}}}}$ <br>
 
 ${{\color{#C04C21}\normalsize{\textsf{emotional shifts}}}}$ <br>
@@ -90,7 +89,6 @@ ${{\color{#C04C21}\tiny{\textsf{i have derealization episodes 3-4 times in a wee
 </details>
 
 <br>
-
 </details>
 </details>
 <!-- before you interact-->
