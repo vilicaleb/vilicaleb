@@ -221,6 +221,14 @@ ${{\color{#C04C21}\tiny{\textsf{do not spam my dms if you are a friend of mine i
 </picture>
 </a>
 
+<p align="center">
+<a href="[https://www.tumblr.com/pwnedbyolixx](https://pronouns.cc/@vilicaleb)">
+<picture>
+<img width="150" height="80" alt="image" src="https://github.com/user-attachments/assets/85f61b24-28d5-4e13-ba1f-5e9a82f7eb56" />
+
+</picture>
+</a>
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31eom75drrelz6g7btz64vg363ou&cover_image=true&theme=spotify-embed&show_offline=true&background_color=ffffff&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false&mode=light)](https://github.com/kittinan/spotify-github-profile)
 
 <br><br>
