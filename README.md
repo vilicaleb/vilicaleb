@@ -171,17 +171,15 @@ ${{\color{#C04C21}\tiny{\textsf{besides if you like caleb244s avatar and not the
 <summary>${{\color{#C04C21}\huge{\textsf{𝘽𝙊𝙐𝙉𝘿𝘼𝙍𝙄𝙀𝙎}}}}$</summary>
 <br>
 
-${{\color{#C04C21}\tiny{\textsf{do not call me “dear” due to trauma.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{do not treat me like im your f/o, im taken and it makes me uncomfortable.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{do not force your religion up my throat, sharing info about it is fine.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{do not make nsfw jokes unless youre a friend and know when to stop.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{do not flirt with me at ALL unless partner.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{do not flirt with me at ALL unless youre my partner.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{do not treat me like im your f/o, im taken and it makes me uncomfortable.}}}}$ <br>
-
-${{\color{#C04C21}\tiny{\textsf{do not spam my dms if you are a friend of mine in dc.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{do not call me “dear” please it triggers me.}}}}$ <br>
 
 <br>
 </details>
@@ -192,11 +190,13 @@ ${{\color{#C04C21}\tiny{\textsf{do not spam my dms if you are a friend of mine i
 <summary>${{\color{#C04C21}\huge{\textsf{𝙁𝙔𝙄}}}}$</summary> 
 <br>
 
-${{\color{#C04C21}\normalsize{\textsf{do not take inspo on my readme, without my perms.}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{please do not take inspo on my readme, without my perms.}}}}$ <br>
+
+${{\color{#C04C21}\normalsize{\textsf{im not interested in the lab rp / medplay community on tiktok anymore.}}}}$ <br>
 
 ${{\color{#C04C21}\normalsize{\textsf{free to ask for my socials.}}}}$ <br>
 
-${{\color{#C04C21}\normalsize{\textsf{pls bmf if you like mm12}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{please bmf if you like mm12.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{i do not condone caleb244s actions at all}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{i am aware hes a fuckass messed up bad person.}}}}$ <br>
