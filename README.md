@@ -58,12 +58,13 @@ ${{\color{#C04C21}\Huge{\textsf{⠀⠀⠀⠀⠀⠀⠀  bmf mm12 fans⠀⠀‎⠀
 
 <br>
 
+<!-- before you interact-->
 <p align="left">
 ${{\color{#C04C21}\tiny{\textsf{art from my friend pomero on tt/pin}}}}$ 
-<div align="left"> <details>
+<div align="left"> <details> 
 <summary><picture><img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/63a22227-a914-4e98-871b-9d176d938ae4" /></picture> ${{\color{#C04C21}\huge{\textsf{ 𓎢𓎠𓎟𓎠𓎡 𝘽𝙔𝙄}}}}$</summary>
-<Hr>
 <p align="left">
+<br>
 
 ${{\color{#C04C21}\tiny{\textsf{english speaker.}}}}$ <br>
 
@@ -81,7 +82,6 @@ ${{\color{#C04C21}\tiny{\textsf{i do not make nsfw jokes always.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{i always interact first.}}}}$ <br>
 
-<hr>
 <br>
 <div align="left"> <details>
 <summary>${{\color{#C04C21}\huge{\textsf{mental stuff…}}}}$</summary>
@@ -104,14 +104,16 @@ ${{\color{#C04C21}\tiny{\textsf{2-3 traumas}}}}$ <br>
 
 <div align="left"> <details>
 <summary>${{\color{#C04C21}\tiny{\textsf{please check up on me daily if you can.}}}}$</summary>
+${{\color{#C04C21}\tiny{\textsf{i can get upset over the smallest things and not tell you.}}}}$
+${{\color{#C04C21}\tiny{\textsf{i really overthink a lot :(}}}}$
 ${{\color{#C04C21}\tiny{\textsf{i have derealization episodes 3-4 times in a week or smth.}}}}$
-${{\color{#C04C21}\tiny{\textsf{and i overthink a lot daily so uh i curl up and cry in my bed alone.}}}}$
 </details>
 
 <br>
 
 </details>
 </details>
+<!-- before you interact-->
 
 <br><br>
 
