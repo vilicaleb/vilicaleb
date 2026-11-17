@@ -19,27 +19,6 @@ ${{\color{#C04C21}\Huge{\textsf{゛ ⸝⸝⠀⠀⠀⠀⠀gg.⠀⠀⋮⠀⠀𝒸a
 <p align="center">
 <a href="https://hits.sh/github.com/yourlocalellernate/hits/"><img alt="Hits" src="https://hits.sh/github.com/yourlocalellernate/hits.svg?style=plastic&label=killing%20vilichud&color=bf4a21&labelColor=c48326"/></a>
 <a href="https://visitorbadge.io//status?path=https%3A%2F%2Fgithub.com%2Fyourlocalellernated"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fyourlocalellernate&label=stealing%20robux&labelColor=%23c48326&countColor=%23bf4a21&style=plastic&labelStyle=lower" /></a>
- 
-<br><br>
-
-<div align="center"> <details>
-<summary>${{\color{#C04C21}\huge{\textsf{𝙁𝙔𝙄}}}}$</summary> 
-<br>
-
-${{\color{#C04C21}\normalsize{\textsf{do not take inspo on my readme, without my perms.}}}}$ <br>
-
-${{\color{#C04C21}\normalsize{\textsf{free to ask for my socials.}}}}$ <br>
-
-${{\color{#C04C21}\normalsize{\textsf{pls bmf if you like mm12}}}}$ <br>
-
-${{\color{#C04C21}\tiny{\textsf{i do not condone caleb244s actions at all}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{i am aware hes a fuckass messed up bad person.}}}}$ <br>
-</details>
-
-<br>
-
-${{\color{#C04C21}\tiny{\textsf{𝙢𝙤𝙧𝙚 𝙞𝙣𝙛𝙤 𝙙𝙤𝙬𝙣 𝙝𝙚𝙧𝙚 !}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{↓}}}}$ <br>
 
 <br><br>
 
@@ -190,9 +169,6 @@ ${{\color{#C04C21}\tiny{\textsf{besides if you like caleb244s avatar and not the
 <details>
 <summary>${{\color{#C04C21}\huge{\textsf{𝘽𝙊𝙐𝙉𝘿𝘼𝙍𝙄𝙀𝙎}}}}$</summary>
 <br>
- 
-${{\color{#C04C21}\tiny{\textsf{do not use any slur around me even if you can reclaim. it makes me sometimes uncomfortable.}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{im ok with faggot, ect.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{do not call me “dear” due to trauma.}}}}$ <br>
 
@@ -207,6 +183,22 @@ ${{\color{#C04C21}\tiny{\textsf{do not treat me like im your f/o, im taken and i
 ${{\color{#C04C21}\tiny{\textsf{do not spam my dms if you are a friend of mine in dc.}}}}$ <br>
 
 <br>
+</details>
+
+<br><br>
+
+<div align="center"> <details>
+<summary>${{\color{#C04C21}\huge{\textsf{𝙁𝙔𝙄}}}}$</summary> 
+<br>
+
+${{\color{#C04C21}\normalsize{\textsf{do not take inspo on my readme, without my perms.}}}}$ <br>
+
+${{\color{#C04C21}\normalsize{\textsf{free to ask for my socials.}}}}$ <br>
+
+${{\color{#C04C21}\normalsize{\textsf{pls bmf if you like mm12}}}}$ <br>
+
+${{\color{#C04C21}\tiny{\textsf{i do not condone caleb244s actions at all}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{i am aware hes a fuckass messed up bad person.}}}}$ <br>
 </details>
 
 <br><br>
