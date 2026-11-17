@@ -99,9 +99,9 @@ ${{\color{#C04C21}\tiny{\textsf{i have derealization episodes 3-4 times in a wee
 <div align="right"> <details>
 <summary>${{\color{#C04C21}\huge{\textsf{ 𝙄𝙉𝙁𝙊 𓎢𓎠𓎟𓎠𓎡 }}}}$<picture><img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/3df88dfb-7597-4698-a74e-8c399dc6b600" /></picture> </summary>
 <hr>
+<br>
 
-${{\color{#C04C21}\normalsize{\textsf{in a relationship with 3}}}}$ <br>
-
+<p align="center">
 ${{\color{#C04C21}\normalsize{\textsf{extrovert}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp/so · 927 · rLuan · 44445 · 334554}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{virgo.}}}}$ <br>
@@ -109,8 +109,9 @@ ${{\color{#C04C21}\normalsize{\textsf{virgo.}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{male terms⠀⠀or⠀⠀gender neutral terms only.}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{he/him or prince/princeself.}}}}$ <br>
 
-<p align="right">
+<p align="center">
 ${{\color{#C04C21}\normalsize{\textsf{gay⠀⠀transgender⠀⠀tlt⠀⠀fictoromantic.}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{in a relationship with 3}}}}$ <br>
 
 ${{\color{#C04C21}\normalsize{\textsf{ellernate and asami fictionkin, doubles are very welcome.}}}}$ <br>
 
