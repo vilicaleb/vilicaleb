@@ -63,7 +63,7 @@ ${{\color{#C04C21}\tiny{\textsf{i do not make nsfw jokes always.}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{i always interact first.}}}}$ <br>
 
 <br>
-<div align="left"> <details>
+<div align="center"> <details>
 <summary>${{\color{#C04C21}\huge{\textsf{mental stuff…}}}}$</summary>
 <br>
 
@@ -80,13 +80,6 @@ ${{\color{#C04C21}\normalsize{\textsf{overthinking}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{suspected depression}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{2-3 traumas}}}}$ <br>
-
-<div align="left"> <details>
-<summary>${{\color{#C04C21}\tiny{\textsf{please check up on me daily if you can.}}}}$</summary>
-${{\color{#C04C21}\tiny{\textsf{i can get upset over the smallest things and not tell you.}}}}$
-${{\color{#C04C21}\tiny{\textsf{i really overthink a lot :(}}}}$
-${{\color{#C04C21}\tiny{\textsf{i have derealization episodes 3-4 times in a week or smth.}}}}$
-</details>
 
 <br>
 </details>
