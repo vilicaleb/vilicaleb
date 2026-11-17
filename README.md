@@ -18,7 +18,7 @@ ${{\color{#C04C21}\Huge{\textsf{゛ ⸝⸝⠀⠀⠀⠀⠀gg.⠀⠀⋮⠀⠀𝒸a
  
 <p align="center">
 <a href="https://hits.sh/github.com/yourlocalellernate/hits/"><img alt="Hits" src="https://hits.sh/github.com/yourlocalellernate/hits.svg?style=plastic&label=killing%20vilichud&color=bf4a21&labelColor=c48326"/></a>
-<a href="https://visitorbadge.io//status?path=https%3A%2F%2Fgithub.com%2Fyourlocalellernate"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fyourlocalellernate&label=stealing%20robux&labelColor=%23c48326&countColor=%23bf4a21&style=plastic&labelStyle=lower" /></a>
+<a href="https://visitorbadge.io//status?path=https%3A%2F%2Fgithub.com%2Fyourlocalellernated"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fyourlocalellernate&label=stealing%20robux&labelColor=%23c48326&countColor=%23bf4a21&style=plastic&labelStyle=lower" /></a>
  
 <br><br>
 
@@ -69,20 +69,14 @@ ${{\color{#C04C21}\tiny{\textsf{english speaker.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{if you use typing quirks im fine with it. though i sometimes dont understand so i may ask for translation.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{i always interact first, though not all time.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{i always interact first.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{not dry at all, i just dont show emotions in text a lot.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{im not please,, i just dont show emotions in text a lot.}}}}$ <br>
 
-<div align="left"> <details>
-<summary>${{\color{#C04C21}\tiny{\textsf{please show a bit of affection to me sometimes}}}}$</summary> 
-${{\color{#C04C21}\tiny{\textsf{i feel very upset being ignored.}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{i overthink a lot that im really annoying.}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{besides, my parents never gave me enough love}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{i can say they pretty for care my cousins more than me.}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{this effected me a lot sobs.}}}}$ <br>
-</details>
 
-${{\color{#C04C21}\tiny{\textsf{please be patient with me, i dont like those who rush me.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{please be patient with me, its overwhelming when people who rush me.}}}}$ <br>
+
+${{\color{#C04C21}\tiny{\textsf{i really like cuddling, please lmk if you dont want me sitting too near.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{i do not really make nsfw jokes.}}}}$ <br>
 
