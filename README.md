@@ -201,7 +201,7 @@ ${{\color{#C04C21}\tiny{\textsf{i am aware hes a fuckass messed up bad person.}}
 
 <br><br>
 
-<img width="1922" alt="image" src="https://github.com/user-attachments/assets/cc255518-2911-4934-9da5-5741a8c968ee" />
+<img width="1922" alt="image" src="https://github.com/user-attachments/assets/c73727bf-9dd1-4bd4-af67-819ebee130ed" />
 
 <br><br>
 
