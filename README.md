@@ -64,6 +64,34 @@ ${{\color{#C04C21}\tiny{\textsf{i always interact first.}}}}$ <br>
 
 <br>
 </details>
+
+<br>
+
+<div align="center"> <details>
+<summary>${{\color{#C04C21}\huge{\textsf{psychological, ect.}}}}$</summary>
+<br>
+
+${{\color{#C04C21}\normalsize{\textsf{maladaptive perfectionism}}}}$ <br>
+
+${{\color{#C04C21}\normalsize{\textsf{emotional dysregulation}}}}$ <br>
+
+${{\color{#C04C21}\normalsize{\textsf{rapid mood swing}}}}$ <br>
+
+${{\color{#C04C21}\normalsize{\textsf{emotional shifts}}}}$ <br>
+
+${{\color{#C04C21}\normalsize{\textsf{sovisl hypervigilance}}}}$ <br>
+
+${{\color{#C04C21}\normalsize{\textsf{overthinker}}}}$ <br>
+ 
+${{\color{#C04C21}\normalsize{\textsf{suspected depression}}}}$ <br>
+
+${{\color{#C04C21}\tiny{\textsf{2-3 traumas}}}}$ <br>
+
+<br>
+</details>
+
+<br>
+</details>
 <!-- before you interact-->
 
 <br><br>
@@ -194,55 +222,6 @@ ${{\color{#C04C21}\tiny{\textsf{do not call me “dear” please it triggers me.
 <br>
 </details>
 <!-- boundaries -->
-
-<br><br>
-
-<!-- labels -->
-<div align="center"> <details>
-<summary>${{\color{#C04C21}\huge{\textsf{labels, ect}}}}$</summary>
-<br>
-
-${{\color{#C04C21}\normalsize{\textsf{i always do my research before giving myself a label.}}}}$ <br>
-
-${{\color{#C04C21}\normalsize{\textsf{i really like labeling myself.}}}}$ <br>
-${{\color{#C04C21}\normalsize{\textsf{and some arent labels here.}}}}$ <br>
-
-<br>
-<div align="center"> <details>
-<summary>${{\color{#C04C21}\huge{\textsf{online labels}}}}$</summary>
-<br>
-
-${{\color{#C04C21}\normalsize{\textsf{researching…}}}}$ <br>
-
-<br>
-</details>
-
-<br>
-
-<div align="center"> <details>
-<summary>${{\color{#C04C21}\huge{\textsf{personality + pyschological}}}}$</summary>
-<br>
-
-${{\color{#C04C21}\normalsize{\textsf{maladaptive perfectionism}}}}$ <br>
-
-${{\color{#C04C21}\normalsize{\textsf{emotional dysregulation}}}}$ <br>
-
-${{\color{#C04C21}\normalsize{\textsf{rapid mood swing}}}}$ <br>
-
-${{\color{#C04C21}\normalsize{\textsf{emotional shifts}}}}$ <br>
-
-${{\color{#C04C21}\normalsize{\textsf{overthinker}}}}$ <br>
- 
-${{\color{#C04C21}\normalsize{\textsf{suspected depression}}}}$ <br>
-
-${{\color{#C04C21}\tiny{\textsf{2-3 traumas}}}}$ <br>
-
-<br>
-</details>
-
-<br>
-</details>
-<!-- labels -->
 
 <br><br>
 
