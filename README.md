@@ -63,26 +63,6 @@ ${{\color{#C04C21}\tiny{\textsf{i do not make nsfw jokes always.}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{i always interact first.}}}}$ <br>
 
 <br>
-<div align="center"> <details>
-<summary>${{\color{#C04C21}\huge{\textsf{mental stuff…}}}}$</summary>
-<br>
-
-${{\color{#C04C21}\normalsize{\textsf{maladaptive perfectionism}}}}$ <br>
-
-${{\color{#C04C21}\normalsize{\textsf{emotional dysregulation}}}}$ <br>
-
-${{\color{#C04C21}\normalsize{\textsf{rapid mood swing}}}}$ <br>
-
-${{\color{#C04C21}\normalsize{\textsf{emotional shifts}}}}$ <br>
-
-${{\color{#C04C21}\normalsize{\textsf{overthinking}}}}$ <br>
- 
-${{\color{#C04C21}\normalsize{\textsf{suspected depression}}}}$ <br>
-
-${{\color{#C04C21}\tiny{\textsf{2-3 traumas}}}}$ <br>
-
-<br>
-</details>
 </details>
 <!-- before you interact-->
 
@@ -214,6 +194,41 @@ ${{\color{#C04C21}\tiny{\textsf{do not call me “dear” please it triggers me.
 <br>
 </details>
 <!-- boundaries -->
+
+<br><br>
+
+<!-- labels -->
+<div align="center"> <details>
+<summary>${{\color{#C04C21}\huge{\textsf{labels, ect}}}}$</summary>
+
+<${{\color{#C04C21}\normalsize{\textsf{i do research before giving me a label.}}}}$ <br>
+
+${{\color{#C04C21}\normalsize{\textsf{i really love labeling myself.}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{some arent labels here.}}}}$ <br>
+
+<div align="center"> <details>
+<summary>${{\color{#C04C21}\huge{\textsf{personality + pyschological}}}}$</summary>
+<br>
+
+${{\color{#C04C21}\normalsize{\textsf{maladaptive perfectionism}}}}$ <br>
+
+${{\color{#C04C21}\normalsize{\textsf{emotional dysregulation}}}}$ <br>
+
+${{\color{#C04C21}\normalsize{\textsf{rapid mood swing}}}}$ <br>
+
+${{\color{#C04C21}\normalsize{\textsf{emotional shifts}}}}$ <br>
+
+${{\color{#C04C21}\normalsize{\textsf{overthinking}}}}$ <br>
+ 
+${{\color{#C04C21}\normalsize{\textsf{suspected depression}}}}$ <br>
+
+${{\color{#C04C21}\tiny{\textsf{2-3 traumas}}}}$ <br>
+
+<br>
+</details>
+
+</details>
+<!-- labels -->
 
 <br><br>
 
