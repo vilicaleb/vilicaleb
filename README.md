@@ -91,7 +91,7 @@ ${{\color{#C04C21}\tiny{\textsf{2-3 traumas}}}}$ <br>
 <p align="center">
 <table> 
 <tr>
-<td>${{\color{#C04C21}\normalsize{\textsf{⠀⠀⠀෭෭⠀always iwecare for nownoww⠀⠀▬▭⠀}}}}$/td>
+<td>${{\color{#C04C21}\normalsize{\textsf{⠀⠀⠀෭෭⠀always iwecare for nownoww⠀⠀▬▭⠀}}}}$</td>
 </tr>
 </table>
 </div>
