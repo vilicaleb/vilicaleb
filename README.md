@@ -63,9 +63,6 @@ ${{\color{#C04C21}\tiny{\textsf{i do not make nsfw jokes always.}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{i always interact first.}}}}$ <br>
 
 <br>
-</details>
-
-<br>
 
 <div align="center"> <details>
 <summary>${{\color{#C04C21}\huge{\textsf{psychological, ect.}}}}$</summary>
