@@ -168,8 +168,12 @@ ${{\color{#C04C21}\tiny{\textsf{PEDO/MAP}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{ZOO}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{AI ARTISTS}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{WIP}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{ECT.}}}}$ <br>
+
+${{\color{#C04C21}\tiny{\textsf{people who thinks being sexual is funny.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{not really a dni but we not get along.}}}}$ <br>
+
+${{\color{#C04C21}\tiny{\textsf{people who makes rape/sa jokes.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{people who makes sh jokes.}}}}$ <br>
 
 <div align="left"> <details>
 <summary>${{\color{#C04C21}\tiny{\textsf{dni caleb244 dick riders, e kittens or whtevr}}}}$</summary>
