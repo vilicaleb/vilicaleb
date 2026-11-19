@@ -91,7 +91,7 @@ ${{\color{#C04C21}\tiny{\textsf{2-3 traumas}}}}$ <br>
 <div align="center">
 <table> 
 <tr>
-<td>${{\color{#C04C21}\normalsize{\textsf{⠀⠀⠀෭෭⠀always iwecare for nownoww⠀⠀▬▭⠀}}}}$</td>
+<td>${{\color{#C04C21}\normalsize{\textsf{⠀⠀⠀෭෭⠀always iwecare for now⠀⠀▬▭⠀}}}}$</td>
 </tr>
 </table>
 </div>
@@ -110,7 +110,7 @@ ${{\color{#C04C21}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp
 ${{\color{#C04C21}\normalsize{\textsf{virgo.}}}}$ <br>
 
 ${{\color{#C04C21}\normalsize{\textsf{male terms⠀⠀or⠀⠀gender neutral terms only.}}}}$ <br>
-${{\color{#C04C21}\normalsize{\textsf{he/him or prince/princeself.}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{HE/HIM, SPEC/SPECTER, SO/SOUL, FI/FIRE, PRINCE/PRINCES}}}}$ <br>
 
 <p align="center">
 ${{\color{#C04C21}\normalsize{\textsf{gay⠀⠀transgender⠀⠀tlt⠀⠀fictoromantic.}}}}$ <br>
@@ -133,7 +133,7 @@ ${{\color{#C04C21}\tiny{\textsf{if you dont like one, lmk i will be careful from
 <div align="center">
 <table> 
 <tr>
-<td>${{\color{#C04C21}\normalsize{\textsf{෭෭⠀⠀HE/HIM, COR/CORPSE/CORPSELF, PRINCE/PRINCES/PRINCESELF.⠀⠀▬▭⠀}}}}$</td>
+<td>${{\color{#C04C21}\normalsize{\textsf{෭෭⠀⠀HE/HIM, 4+ PRONOUNS.⠀⠀▬▭⠀}}}}$</td>
 </tr>
 </table>
 </div>
