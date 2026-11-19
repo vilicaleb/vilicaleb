@@ -145,16 +145,21 @@ ${{\color{#C04C21}\tiny{\textsf{ABLEISTS}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{SEXISTS}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{ECT.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{ANTI-LGBQT+}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{TRANSPHOBES/HOMOPHOBES/QUEERPHOBES}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{ANTI-MOGAI}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{ANTI-XENOGENDERS}}}}$ <br>
-
-${{\color{#C04C21}\tiny{\textsf{TRANSPHOBES/HOMOPHOBES/QUEERPHOBES}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{ANTI-XENOGENDERS}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{TRANSMED}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{HARMFUL TRANSID}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{ECT.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{maga supporters / trumpies}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{dni if you make jokes about rape, sa, child abuse, ect.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{MAGA}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{PRO-TRUMP}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{PEDO/MAP}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{ZOO}}}}$ <br>
+
+${{\color{#C04C21}\tiny{\textsf{AI ARTISTS}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{WIP}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{ECT.}}}}$ <br>
 
 <div align="left"> <details>
 <summary>${{\color{#C04C21}\tiny{\textsf{dni caleb244 dick riders, e kittens or whtevr}}}}$</summary>
