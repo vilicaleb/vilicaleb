@@ -133,7 +133,7 @@ ${{\color{#C04C21}\tiny{\textsf{if you dont like one, lmk i will be careful from
 <div align="center">
 <table> 
 <tr>
-<td>${{\color{#C04C21}\normalsize{\textsf{⠀⠀⠀෭෭HE/HIM, COR/CORPSE/CORPSELF, PRINCE/PRINCES/PRINCESELF.⠀⠀▬▭⠀}}}}$</td>
+<td>${{\color{#C04C21}\normalsize{\textsf{෭෭⠀⠀HE/HIM, COR/CORPSE/CORPSELF, PRINCE/PRINCES/PRINCESELF.⠀⠀▬▭⠀}}}}$</td>
 </tr>
 </table>
 </div>
