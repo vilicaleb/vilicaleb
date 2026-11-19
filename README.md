@@ -258,15 +258,23 @@ ${{\color{#C04C21}\tiny{\textsf{i am aware hes a fuckass messed up bad person.}}
 <summary>${{\color{#C04C21}\tiny{\textsf{👀}}}}$</summary>
 <br>
 
-text
+[lonelytrees music playlist](https://open.spotify.com/playlist/6X5DsZjSBePgxppwUeiUvh?si=AWcN88WyTGKKILw2v_nGAw&utm_source=copy-link&pi=tF9g48SdRN-tn)
 
-text
+[itrapped music playlist](https://open.spotify.com/playlist/6zduCBiYeGSQl9RXv0AhXa?si=-9WKFOrnSniEFszPkPki2Q&utm_source=copy-link&pi=Br-Q1H5OS6eCL)
 
-text
+[ellernate (ellercaleb) music playlist](https://open.spotify.com/playlist/6zduCBiYeGSQl9RXv0AhXa?si=-9WKFOrnSniEFszPkPki2Q&utm_source=copy-link&pi=Br-Q1H5OS6eCL)
 
-text
 
-text
+> requested 🥺🥺
+
+[caleb244 playlist]
+
+[vilicus playlist]
+
+[kirbycaden playlist]
+
+> request by emailing me lol <br>
+> ask for email though
 
 <br>
 </details>
