@@ -251,3 +251,23 @@ ${{\color{#C04C21}\tiny{\textsf{i am aware hes a fuckass messed up bad person.}}
 ![](https://komarev.com/ghpvc/?username=vilicalebb&label=1+view+=+1+free+tuna+for+me.&color=c48326&style=flat)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31eom75drrelz6g7btz64vg363ou&cover_image=true&theme=spotify-embed&show_offline=true&background_color=ffffff&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false&mode=light)](https://github.com/kittinan/spotify-github-profile)
+
+<!-- rep -->
+<div align="center"> 
+<details>
+<summary>${{\color{#C04C21}\tiny{\textsf{👀}}}}$</summary>
+<br>
+
+text
+
+text
+
+text
+
+text
+
+text
+
+<br>
+</details>
+<!-- rep -->
