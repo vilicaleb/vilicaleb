@@ -66,7 +66,7 @@ ${{\color{#C04C21}\tiny{\textsf{i always interact first.}}}}$ <br>
 </details>
 <!-- before you interact-->
 
-<br>
+<br><br>
 
 <div align="center">
 <table> 
@@ -76,7 +76,7 @@ ${{\color{#C04C21}\tiny{\textsf{i always interact first.}}}}$ <br>
 </table>
 </div>
 
-<br>
+<br><br>
 
 <!-- about me -->
 <div align="right"> <details>
@@ -108,7 +108,7 @@ ${{\color{#C04C21}\tiny{\textsf{if you dont like one, lmk i will be careful from
 </details>
 <!-- about me -->
 
-<br>
+<br><br>
 
 <div align="center">
 <table> 
@@ -118,7 +118,7 @@ ${{\color{#C04C21}\tiny{\textsf{if you dont like one, lmk i will be careful from
 </table>
 </div>
 
-<br>
+<br><br>
 
 <!-- dni list -->
 <div align="left"> <details>
