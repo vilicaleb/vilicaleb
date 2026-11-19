@@ -200,11 +200,12 @@ ${{\color{#C04C21}\tiny{\textsf{do not call me “dear” please it triggers me.
 <!-- labels -->
 <div align="center"> <details>
 <summary>${{\color{#C04C21}\huge{\textsf{labels, ect}}}}$</summary>
+<br>
 
-${{\color{#C04C21}\normalsize{\textsf{i do research before giving me a label.}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{i always do my research before giving myself a label.}}}}$ <br>
 
-${{\color{#C04C21}\normalsize{\textsf{i really love labeling myself.}}}}$ <br>
-${{\color{#C04C21}\normalsize{\textsf{some arent labels here.}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{i really like labeling myself.}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{and some arent labels here.}}}}$ <br>
 
 <div align="center"> <details>
 <summary>${{\color{#C04C21}\huge{\textsf{personality + pyschological}}}}$</summary>
@@ -227,6 +228,7 @@ ${{\color{#C04C21}\tiny{\textsf{2-3 traumas}}}}$ <br>
 <br>
 </details>
 
+<br>
 </details>
 <!-- labels -->
 
