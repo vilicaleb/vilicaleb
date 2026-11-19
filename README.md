@@ -207,6 +207,18 @@ ${{\color{#C04C21}\normalsize{\textsf{i always do my research before giving myse
 ${{\color{#C04C21}\normalsize{\textsf{i really like labeling myself.}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{and some arent labels here.}}}}$ <br>
 
+<br>
+<div align="center"> <details>
+<summary>${{\color{#C04C21}\huge{\textsf{online labels}}}}$</summary>
+<br>
+
+${{\color{#C04C21}\normalsize{\textsf{researching…}}}}$ <br>
+
+<br>
+</details>
+
+<br>
+
 <div align="center"> <details>
 <summary>${{\color{#C04C21}\huge{\textsf{personality + pyschological}}}}$</summary>
 <br>
@@ -219,7 +231,7 @@ ${{\color{#C04C21}\normalsize{\textsf{rapid mood swing}}}}$ <br>
 
 ${{\color{#C04C21}\normalsize{\textsf{emotional shifts}}}}$ <br>
 
-${{\color{#C04C21}\normalsize{\textsf{overthinking}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{overthinker}}}}$ <br>
  
 ${{\color{#C04C21}\normalsize{\textsf{suspected depression}}}}$ <br>
 
