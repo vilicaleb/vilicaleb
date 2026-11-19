@@ -140,16 +140,21 @@ ${{\color{#C04C21}\tiny{\textsf{if you dont like one, lmk i will be careful from
 ${{\color{#C04C21}\tiny{\textsf{no you can not suggest me to add something here.}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{i only add what i know and what is bad}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{T.R.A.S.H.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{RACISTS/XENOPHOBES}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{ABLEISTS}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{SEXISTS}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{ECT.}}}}$ <br>
+
+${{\color{#C04C21}\tiny{\textsf{ANTI-LGBQT+}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{ANTI-MOGAI}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{ANTI-XENOGENDERS}}}}$ <br>
+
+${{\color{#C04C21}\tiny{\textsf{TRANSPHOBES/HOMOPHOBES/QUEERPHOBES}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{ANTI-XENOGENDERS}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{ECT.}}}}$ <br>
+
 ${{\color{#C04C21}\tiny{\textsf{maga supporters / trumpies}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{dni if you make jokes about rape, sa, child abuse, ect.}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{AGEISTS}}}}$ <br>
-
-${{\color{#C04C21}\tiny{\textsf{lolicon}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{shotacon}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{map}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{zoo}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{incest}}}}$ <br>
 
 <div align="left"> <details>
 <summary>${{\color{#C04C21}\tiny{\textsf{dni caleb244 dick riders, e kittens or whtevr}}}}$</summary>
