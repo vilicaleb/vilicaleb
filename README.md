@@ -87,8 +87,14 @@ ${{\color{#C04C21}\tiny{\textsf{2-3 traumas}}}}$ <br>
 <!-- before you interact-->
 
 <br><br>
+<table align="center">
+<table> 
+<tr>
+<td>${{\color{#C04C21}\normalsize{\textsf{⠀⠀⠀෭෭⠀always iwecare for nownoww⠀⠀▬▭⠀ ㅤׁㅤ  }}}}$</td>
+</tr>
+</table>
+</div>
 
-${{\color{#C04C21}\huge{\textsf{⠀⠀⠀෭෭⠀always iwecare for now.⠀⠀▬▭⠀ ㅤׁㅤ  ✦}}}}$
 
 <br><br>
 
