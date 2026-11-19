@@ -88,6 +88,10 @@ ${{\color{#C04C21}\tiny{\textsf{2-3 traumas}}}}$ <br>
 
 <br><br>
 
+${{\color{#C04C21}\huge{\textsf{⠀⠀⠀෭෭⠀always iwecare for now.⠀⠀▬▭⠀ ㅤׁㅤ  ✦}}}}$
+
+<br><br>
+
 <!-- about me -->
 <div align="right"> <details>
 <summary>${{\color{#C04C21}\huge{\textsf{ 𝙄𝙉𝙁𝙊 𓎢𓎠𓎟𓎠𓎡 }}}}$<picture><img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/3df88dfb-7597-4698-a74e-8c399dc6b600" /></picture> </summary>
