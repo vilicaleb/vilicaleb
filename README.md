@@ -175,10 +175,16 @@ ${{\color{#C04C21}\tiny{\textsf{if you dont like one, lmk i will be careful from
 ${{\color{#C04C21}\tiny{\textsf{no you can not suggest me to add something here.}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{i only add what i know and what is bad}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{RACISTS/XENOPHOBES}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{ABLEISTS}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{SEXISTS}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{ECT.}}}}$ <br>
+<div align="center">
+<table> 
+<tr>
+<td>${{\color{#C04C21}\tiny{\textsf{RACISTS/XENOPHOBES}}}}$</td>
+<td>${{\color{#C04C21}\tiny{\textsf{${{\color{#C04C21}\tiny{\textsf{ABLEISTS}}}}$</td>
+<td>${{\color{#C04C21}\tiny{\textsf{SEXISTS}}}}$</td>
+<td>${{\color{#C04C21}\tiny{\textsf{ECT.}}}}$</td>
+</tr>
+</table>
+</div>
 
 ${{\color{#C04C21}\tiny{\textsf{TRANSPHOBES/HOMOPHOBES/QUEERPHOBES}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{ANTI-MOGAI}}}}$ <br>
