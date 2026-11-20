@@ -232,7 +232,11 @@ ${{\color{#C04C21}\tiny{\textsf{do not call me “dear” please it triggers me.
 
 <br><br>
 
-<img width="1922" alt="image" src="https://github.com/user-attachments/assets/c73727bf-9dd1-4bd4-af67-819ebee130ed" />
+<img width="2000" alt="image" src="https://github.com/user-attachments/assets/a5c5e32f-845f-479c-a721-4fd032bc5769" />
+
+<br><br>
+
+<img width="2000" alt="image" src="https://github.com/user-attachments/assets/c73727bf-9dd1-4bd4-af67-819ebee130ed" />
 
 <br><br>
 
