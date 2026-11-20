@@ -175,49 +175,19 @@ ${{\color{#C04C21}\tiny{\textsf{if you dont like one, lmk i will be careful from
 ${{\color{#C04C21}\tiny{\textsf{no you can not suggest me to add something here.}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{i only add what i know and what is bad}}}}$ <br>
 
-<div align="center">
-<table> 
-<tr>
-<td>${{\color{#C04C21}\tiny{\textsf{RACISTS/XENOPHOBES}}}}$</td>
-</tr>
-<td>${{\color{#C04C21}\tiny{\textsf{ABLEISTS}}}}$</td>
-<tr>
-<td>${{\color{#C04C21}\tiny{\textsf{SEXISTS}}}}$</td>
-</tr>
-<td>${{\color{#C04C21}\tiny{\textsf{ECT.}}}}$</td>
-</table>
-</div>
+${{\color{#C04C21}\tiny{\textsf{RACISTS/XENOPHOBES}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{ABLEISTS}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{SEXISTS}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{HOMOPHOBES/TRANSPHOBES/QUEERPHOBES}}}}$ <br>
 
-<div align="center">
-<table> 
-<tr>
-<td>${{\color{#C04C21}\tiny{\textsf{TRANSPHOBES/HOMOPHOBES/QUEERPHOBES}}}}$</td>
-</tr>
-<td>${{\color{#C04C21}\tiny{\textsf{ANTI-MOGAI}}}}$</td>
-<tr>
-<td>${{\color{#C04C21}\tiny{\textsf{SEXISTS}}}}$</td>
-</tr>
-<td>${{\color{#C04C21}\tiny{\textsf{ANTI-XENOGENDERS}}}}$</td>
-<tr>
-<td>${{\color{#C04C21}\tiny{\textsf{TRANSMED}}}}$</td>
-</tr>
-<td>${{\color{#C04C21}\tiny{\textsf{HARMFUL TRANSID}}}}$</td>
-</table>
-</div>
-
-
-${{\color{#C04C21}\tiny{\textsf{MAGA}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{PRO-TRUMP}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{PEDO/MAP}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{ZOO}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{AI ARTISTS}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{people who thinks being sexual is funny.}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{not really a dni but we not get along.}}}}$ <br>
-
 ${{\color{#C04C21}\tiny{\textsf{people who makes rape/sa jokes.}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{people who makes sh jokes.}}}}$ <br>
+
+${{\color{#C04C21}\tiny{\textsf{people who thinks being sexual is funny.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{not really a dni but we not get along.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{dni caleb244 dick riders, e kittens or whtevr}}}}$
 
