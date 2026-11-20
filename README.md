@@ -179,10 +179,12 @@ ${{\color{#C04C21}\tiny{\textsf{i only add what i know and what is bad}}}}$ <br>
 <table> 
 <tr>
 <td>${{\color{#C04C21}\tiny{\textsf{RACISTS/XENOPHOBES}}}}$</td>
-<td>${{\color{#C04C21}\tiny{\textsf{${{\color{#C04C21}\tiny{\textsf{ABLEISTS}}}}$</td>
-<td>${{\color{#C04C21}\tiny{\textsf{SEXISTS}}}}$</td>
-<td>${{\color{#C04C21}\tiny{\textsf{ECT.}}}}$</td>
 </tr>
+<td>${{\color{#C04C21}\tiny{\textsf{ABLEISTS}}}}$</td>
+<tr>
+<td>${{\color{#C04C21}\tiny{\textsf{SEXISTS}}}}$</td>
+</tr>
+<td>${{\color{#C04C21}\tiny{\textsf{ECT.}}}}$</td>
 </table>
 </div>
 
