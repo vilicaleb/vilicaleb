@@ -28,6 +28,28 @@ ${{\color{#C04C21}\Huge{\textsf{𓎢𓎠𓎟𓎠𓎡⠀⠀poly taken⠀⠀― ::
 ${{\color{#C04C21}\tiny{\textsf{◠⠀⠀⠀⠀‎18+ iwc⠀⠀⠀⠀︵⠀⠀⠀⠀𓎢𓎠𓎟𓎠𓎡}}}}$ <br>
 ${{\color{#C04C21}\Huge{\textsf{⠀⠀⠀⠀⠀⠀⠀  𝙑𝙄𝙇𝙄𝘾𝘼𝙇𝙀𝘽 𝙎𝙐𝙋𝙍𝙀𝙈𝘼𝘾𝙔⠀⠀⠀⠀𓂅⠀ ⠀ }}}}$ <br>
 
+<br>
+
+<div align="center"> <details>
+<summary>${{\color{#C04C21}\huge{\textsf{𝙁𝙔𝙄}}}}$</summary> 
+<br>
+
+${{\color{#C04C21}\tiny{\textsf{NOT A CALEB244 FICTIONKIN.}}}}$ <br>
+ 
+${{\color{#C04C21}\tiny{\textsf{free to ask for my socials.}}}}$ <br>
+
+${{\color{#C04C21}\tiny{\textsf{do not take heavy inspo on my readme.}}}}$ <br>
+
+${{\color{#C04C21}\tiny{\textsf{bmf if you like mm12 or have the same interest.}}}}$ <br>
+
+${{\color{#C04C21}\tiny{\textsf{im not interested in the lab rp / medplay community on tiktok anymore.}}}}$ <br>
+
+${{\color{#C04C21}\tiny{\textsf{i do not condone caleb244s actions at all}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{i am aware hes a fuckass messed up bad person.}}}}$ <br>
+
+<br>
+</details>
+
 <br><br>
 
 <p align="center">
@@ -207,28 +229,6 @@ ${{\color{#C04C21}\tiny{\textsf{do not call me “dear” please it triggers me.
 <br>
 </details>
 <!-- boundaries -->
-
-<br><br>
-
-<div align="center"> <details>
-<summary>${{\color{#C04C21}\huge{\textsf{𝙁𝙔𝙄}}}}$</summary> 
-<br>
-
-${{\color{#C04C21}\tiny{\textsf{NOT A CALEB244 FICTIONKIN.}}}}$ <br>
- 
-${{\color{#C04C21}\tiny{\textsf{free to ask for my socials.}}}}$ <br>
-
-${{\color{#C04C21}\tiny{\textsf{do not take heavy inspo on my readme.}}}}$ <br>
-
-${{\color{#C04C21}\tiny{\textsf{bmf if you like mm12 or have the same interest.}}}}$ <br>
-
-${{\color{#C04C21}\tiny{\textsf{im not interested in the lab rp / medplay community on tiktok anymore.}}}}$ <br>
-
-${{\color{#C04C21}\tiny{\textsf{i do not condone caleb244s actions at all}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{i am aware hes a fuckass messed up bad person.}}}}$ <br>
-
-<br>
-</details>
 
 <br><br>
 
