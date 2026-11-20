@@ -1,5 +1,3 @@
-> im gonna make a new readme for my cutie🥺🥺
-
 <p align="center">
 <img width="1225" alt="image" src="https://github.com/user-attachments/assets/639b61d3-355f-4967-89a8-36bc06d1daca" />
 
