@@ -50,17 +50,17 @@ ${{\color{#C04C21}\tiny{\textsf{english speaker.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{if you use typing quirks im fine with it. though i sometimes dont understand so i may ask for translation.}}}}$ <br>
 
+${{\color{#C04C21}\tiny{\textsf{i really like cuddling, please let me know if you dont want me sitting too near.}}}}$ <br>
+
+${{\color{#C04C21}\tiny{\textsf{im not dry, i dont really show excitement in text.}}}}$ <br>
+
 ${{\color{#C04C21}\tiny{\textsf{im really overwelmed sometimes if i talk to many people at the same time.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{i really like cuddling, please lmk if you dont want me sitting too near.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{please be patient with me, its overwhelming when people rush me.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{please be patient with me, its overwhelming when people who rush me.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{im not dry please,, i just dont show emotions in text a lot.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{i do not make nsfw jokes always.}}}}$ <br>
-
-${{\color{#C04C21}\tiny{\textsf{i always interact first.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{i dont always make sexual jokes, not my thing haha.}}}}$ <br>
 
 <br>
 
