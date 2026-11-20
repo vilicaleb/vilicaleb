@@ -107,7 +107,6 @@ ${{\color{#C04C21}\tiny{\textsf{2-3 traumas}}}}$ <br>
 <!-- about me -->
 <div align="right"> <details>
 <summary>${{\color{#C04C21}\huge{\textsf{ 𝙄𝙉𝙁𝙊 𓎢𓎠𓎟𓎠𓎡 }}}}$<picture><img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/3df88dfb-7597-4698-a74e-8c399dc6b600" /></picture> </summary>
-<hr>
 <br>
 
 <p align="center">
@@ -125,12 +124,13 @@ ${{\color{#C04C21}\normalsize{\textsf{in a relationship with 3}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{ellernate and asami fictionkin, doubles are very welcome.}}}}$ <br>
 
 ${{\color{#C04C21}\normalsize{\textsf{hello hi the names is scott or leo [drooling face]}}}}$ <br>
-${{\color{#C04C21}\normalsize{\textsf{i like being called a good boy jokingly.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{i like every ship in mm12.}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{if you dont like one, lmk i will be careful from mentioning one.}}}}$ <br>
 
-<hr>
+${{\color{#C04C21}\normalsize{\textsf{i like being called a good boy jokingly btw, sorry i dont think anyone should know this shit.}}}}$ <br>
+
+<br>
 </details>
 <!-- about me -->
 
