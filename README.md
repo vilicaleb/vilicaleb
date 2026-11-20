@@ -128,7 +128,7 @@ ${{\color{#C04C21}\normalsize{\textsf{hello hi the names is scott or leo [drooli
 ${{\color{#C04C21}\tiny{\textsf{i like every ship in mm12.}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{if you dont like one, lmk i will be careful from mentioning one.}}}}$ <br>
 
-${{\color{#C04C21}\normalsize{\textsf{i like being called a good boy jokingly btw, sorry i dont think anyone should know this shit.}}}}$ <br>
+<sub><sub> ${{\color{#C04C21}\normalsize{\textsf{i like being called a good boy jokingly btw, sorry i dont think anyone should know this shit.}}}}$ </sub><sub> <br>
 
 <br>
 </details>
