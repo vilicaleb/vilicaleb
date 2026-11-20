@@ -54,13 +54,12 @@ ${{\color{#C04C21}\tiny{\textsf{i really like cuddling, please let me know if yo
 
 ${{\color{#C04C21}\tiny{\textsf{im not dry, i dont really show excitement in text.}}}}$ <br>
 
+${{\color{#C04C21}\tiny{\textsf{i dont always make sexual jokes, not my thing haha.}}}}$ <br>
+
+
 ${{\color{#C04C21}\tiny{\textsf{im really overwelmed sometimes if i talk to many people at the same time.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{please be patient with me, its overwhelming when people rush me.}}}}$ <br>
-
-
-
-${{\color{#C04C21}\tiny{\textsf{i dont always make sexual jokes, not my thing haha.}}}}$ <br>
 
 <br>
 
