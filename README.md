@@ -188,12 +188,23 @@ ${{\color{#C04C21}\tiny{\textsf{i only add what i know and what is bad}}}}$ <br>
 </table>
 </div>
 
-${{\color{#C04C21}\tiny{\textsf{TRANSPHOBES/HOMOPHOBES/QUEERPHOBES}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{ANTI-MOGAI}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{ANTI-XENOGENDERS}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{TRANSMED}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{HARMFUL TRANSID}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{ECT.}}}}$ <br>
+<div align="center">
+<table> 
+<tr>
+<td>${{\color{#C04C21}\tiny{\textsf{TRANSPHOBES/HOMOPHOBES/QUEERPHOBES}}}}$</td>
+</tr>
+<td>${{\color{#C04C21}\tiny{\textsf{ANTI-MOGAI}}}}$</td>
+<tr>
+<td>${{\color{#C04C21}\tiny{\textsf{SEXISTS}}}}$</td>
+</tr>
+<td>${{\color{#C04C21}\tiny{\textsf{ANTI-XENOGENDERS}}}}$</td>
+<tr>
+<td>${{\color{#C04C21}\tiny{\textsf{TRANSMED}}}}$</td>
+</tr>
+<td>${{\color{#C04C21}\tiny{\textsf{HARMFUL TRANSID}}}}$</td>
+</table>
+</div>
+
 
 ${{\color{#C04C21}\tiny{\textsf{MAGA}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{PRO-TRUMP}}}}$ <br>
