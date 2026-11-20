@@ -61,7 +61,7 @@ ${{\color{#C04C21}\tiny{\textsf{im really overwelmed sometimes if i talk to many
 
 ${{\color{#C04C21}\tiny{\textsf{please be patient with me, its overwhelming when people rush me.}}}}$ <br>
 
-> <sub><sub>IM SO SORRY IM SOMETIMES AWKWARD TO INTERACT WITH GIRLS CAUSE I USUALLY INTERACT WITH BOYS, ENBYS, ECT.</sub><sub>
+> <sub><sub>IM SO SORRY IM SOMETIMES AWKWARD WHEN INTERACT WITH GIRLS CAUSE I USUALLY INTERACT WITH BOYS, ENBYS, ECT.</sub><sub>
 
 <br>
 
