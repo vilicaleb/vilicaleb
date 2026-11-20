@@ -123,7 +123,7 @@ ${{\color{#C04C21}\normalsize{\textsf{in a relationship with 3}}}}$ <br>
 
 ${{\color{#C04C21}\normalsize{\textsf{ellernate and asami fictionkin, doubles are very welcome.}}}}$ <br>
 
-${{\color{#C04C21}\normalsize{\textsf{hello hi the names is isaac or leo [drooling face]}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{hello hi the names is scott or leo [drooling face]}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{i like being called a good boy jokingly.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{i like every ship in mm12.}}}}$ <br>
