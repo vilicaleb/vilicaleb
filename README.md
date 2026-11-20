@@ -8,26 +8,6 @@ ${{\color{#C04C21}\Huge{\textsf{𓊆⠀⠀𓎢𓎠𓎡⠀⠀𝓋ı𝓁ı𝒸ą�
 ${{\color{#C04C21}\tiny{\textsf{do not call me ipineapple /srs}}}}$ <br>
 ${{\color{#C04C21}\Huge{\textsf{゛ ⸝⸝⠀⠀⠀⠀⠀gg.⠀⠀⋮⠀⠀𝒸aleb²⁴⁴⠀⠀⠀⠀⌣⌣⠀⠀⠀⿻ }}}}$ <br>
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Redaction+50&size=19&duration=2500&pause=1000&color=D15D31&width=435&lines=i+got+you+on+my+radar%2C+soon+youre+gonna+be+with+me!" alt="Typing SVG" /></a>
-
-<br>
- 
-<p align="center">
-<a href="https://hits.sh/github.com/yourlocalellernate/hits/"><img alt="Hits" src="https://hits.sh/github.com/yourlocalellernate/hits.svg?style=plastic&label=killing%20vilichud&color=bf4a21&labelColor=c48326"/></a>
-<a href="https://visitorbadge.io//status?path=https%3A%2F%2Fgithub.com%2Fyourlocalellernated"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fyourlocalellernate&label=stealing%20robux&labelColor=%23c48326&countColor=%23bf4a21&style=plastic&labelStyle=lower" /></a>
-
-<br><br>
-
-<img width="1922" alt="image" src="https://github.com/user-attachments/assets/f8ee21fc-fbac-4024-a3fa-fd6e46858c04" />
-
-<br><br>
-
-<p align="center">
-${{\color{#C04C21}\Huge{\textsf{𓎢𓎠𓎟𓎠𓎡⠀⠀poly taken⠀⠀― :: ノ `  }}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{◠⠀⠀⠀⠀‎18+ iwc⠀⠀⠀⠀︵⠀⠀⠀⠀𓎢𓎠𓎟𓎠𓎡}}}}$ <br>
-${{\color{#C04C21}\Huge{\textsf{⠀⠀⠀⠀⠀⠀⠀  𝙑𝙄𝙇𝙄𝘾𝘼𝙇𝙀𝘽 𝙎𝙐𝙋𝙍𝙀𝙈𝘼𝘾𝙔⠀⠀⠀⠀𓂅⠀ ⠀ }}}}$ <br>
-
 <br>
 
 <div align="center"> <details>
@@ -49,6 +29,26 @@ ${{\color{#C04C21}\tiny{\textsf{i am aware hes a fuckass messed up bad person.}}
 
 <br>
 </details>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Redaction+50&size=19&duration=2500&pause=1000&color=D15D31&width=435&lines=i+got+you+on+my+radar%2C+soon+youre+gonna+be+with+me!" alt="Typing SVG" /></a>
+
+<br>
+ 
+<p align="center">
+<a href="https://hits.sh/github.com/yourlocalellernate/hits/"><img alt="Hits" src="https://hits.sh/github.com/yourlocalellernate/hits.svg?style=plastic&label=killing%20vilichud&color=bf4a21&labelColor=c48326"/></a>
+<a href="https://visitorbadge.io//status?path=https%3A%2F%2Fgithub.com%2Fyourlocalellernated"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fyourlocalellernate&label=stealing%20robux&labelColor=%23c48326&countColor=%23bf4a21&style=plastic&labelStyle=lower" /></a>
+
+<br><br>
+
+<img width="1922" alt="image" src="https://github.com/user-attachments/assets/f8ee21fc-fbac-4024-a3fa-fd6e46858c04" />
+
+<br><br>
+
+<p align="center">
+${{\color{#C04C21}\Huge{\textsf{𓎢𓎠𓎟𓎠𓎡⠀⠀poly taken⠀⠀― :: ノ `  }}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{◠⠀⠀⠀⠀‎18+ iwc⠀⠀⠀⠀︵⠀⠀⠀⠀𓎢𓎠𓎟𓎠𓎡}}}}$ <br>
+${{\color{#C04C21}\Huge{\textsf{⠀⠀⠀⠀⠀⠀⠀  𝙑𝙄𝙇𝙄𝘾𝘼𝙇𝙀𝘽 𝙎𝙐𝙋𝙍𝙀𝙈𝘼𝘾𝙔⠀⠀⠀⠀𓂅⠀ ⠀ }}}}$ <br>
 
 <br><br>
 
