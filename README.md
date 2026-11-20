@@ -214,6 +214,8 @@ ${{\color{#C04C21}\tiny{\textsf{do not call me “dear” please it triggers me.
 <summary>${{\color{#C04C21}\huge{\textsf{𝙁𝙔𝙄}}}}$</summary> 
 <br>
 
+${{\color{#C04C21}\tiny{\textsf{NOT A CALEB244 FICTIONKIN.}}}}$ <br>
+ 
 ${{\color{#C04C21}\tiny{\textsf{free to ask for my socials.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{do not take heavy inspo on my readme.}}}}$ <br>
@@ -224,6 +226,8 @@ ${{\color{#C04C21}\tiny{\textsf{im not interested in the lab rp / medplay commun
 
 ${{\color{#C04C21}\tiny{\textsf{i do not condone caleb244s actions at all}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{i am aware hes a fuckass messed up bad person.}}}}$ <br>
+
+<br>
 </details>
 
 <br><br>
