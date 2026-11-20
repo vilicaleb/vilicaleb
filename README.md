@@ -11,7 +11,7 @@ ${{\color{#C04C21}\Huge{\textsf{゛ ⸝⸝⠀⠀⠀⠀⠀gg.⠀⠀⋮⠀⠀𝒸a
 <br>
 
 <div align="center"> <details>
-<summary>${{\color{#C04C21}\huge{\textsf{𝙁𝙔𝙄}}}}$</summary> 
+<summary>${{\color{#C04C21}\huge{\textsf{.⠀⠀⠀⠀◠⠀⠀⠀⠀𝙁𝙔𝙄⠀⠀⋆ `⠀⠀⠀⠀︵. }}}}$</summary> 
 <br>
 
 ${{\color{#C04C21}\tiny{\textsf{NOT A CALEB244 FICTIONKIN.}}}}$ <br>
