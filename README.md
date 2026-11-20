@@ -269,4 +269,4 @@ ${{\color{#C04C21}\tiny{\textsf{do not call me “dear” please it triggers me.
 </details>
 <!-- spotify -->
 
-<img width="204" height="232" alt="image" src="https://github.com/user-attachments/assets/27991716-d524-44a8-ab64-a34fa0082a47" />
+<img width="100" alt="image" src="https://github.com/user-attachments/assets/27991716-d524-44a8-ab64-a34fa0082a47" />
