@@ -26,7 +26,7 @@ ${{\color{#C04C21}\Huge{\textsf{゛ ⸝⸝⠀⠀⠀⠀⠀gg.⠀⠀⋮⠀⠀𝒸a
 <p align="center">
 ${{\color{#C04C21}\Huge{\textsf{𓎢𓎠𓎟𓎠𓎡⠀⠀poly taken⠀⠀― :: ノ `  }}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{◠⠀⠀⠀⠀‎18+ iwc⠀⠀⠀⠀︵⠀⠀⠀⠀𓎢𓎠𓎟𓎠𓎡}}}}$ <br>
-${{\color{#C04C21}\Huge{\textsf{⠀⠀⠀⠀⠀⠀⠀  𝙑𝙄𝙇𝙄𝘾𝘼𝙇𝙀𝘽 𝙎𝙐𝙋𝙀𝙍𝙈𝘼𝘾𝙔⠀⠀⠀⠀𓂅⠀ ⠀ }}}}$ <br>
+${{\color{#C04C21}\Huge{\textsf{⠀⠀⠀⠀⠀⠀⠀  𝙑𝙄𝙇𝙄𝘾𝘼𝙇𝙀𝘽 𝙎𝙐𝙋𝙍𝙀𝙈𝘼𝘾𝙔⠀⠀⠀⠀𓂅⠀ ⠀ }}}}$ <br>
 
 <br><br>
 
