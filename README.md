@@ -181,18 +181,8 @@ ${{\color{#C04C21}\tiny{\textsf{not really a dni but we not get along.}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{people who makes rape/sa jokes.}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{people who makes sh jokes.}}}}$ <br>
 
-<div align="left"> <details>
-<summary>${{\color{#C04C21}\tiny{\textsf{dni caleb244 dick riders, e kittens or whtevr}}}}$</summary>
-${{\color{#C04C21}\tiny{\textsf{like how could you fucking support a trumpie and also a transphobe.}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{and besides he is super messed up.}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{did we forgot the victims he doxxed?? he ruined kcs life.}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{and when he hacked into kcs account and said transphobic slurs.}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{also he doxxed innocent people too btw.}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{he also argued with minors and likely tricking you into that hes good now.}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{i do not give a fuck that your dada is just “29teen”}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{pls do not interact with him, again youre boosting his ego}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{im GLAD i wake up in the morning proud knowing i dont support his doings.}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{besides if you like caleb244s avatar and not the person behind, it is ok.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{dni caleb244 dick riders, e kittens or whtevr}}}}$
+
 </details>
 <br>
 
