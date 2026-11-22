@@ -71,10 +71,13 @@ ${{\color{#C04C21}\tiny{\textsf{if you use typing quirks im fine with it. though
 
 ${{\color{#C04C21}\tiny{\textsf{i really like cuddling, please let me know if you dont want me sitting too near.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{im not dry, i dont really show excitement in text.}}}}$ <br>
-
 ${{\color{#C04C21}\tiny{\textsf{i dont always make sexual jokes, not my thing haha.}}}}$ <br>
 
+${{\color{#C04C21}\tiny{\textsf{i dont really show excitement in text.}}}}$ <br>
+
+${{\color{#C04C21}\tiny{\textsf{i do bite. (kidding)}}}}$ <br>
+
+<hr>
 
 ${{\color{#C04C21}\tiny{\textsf{im really overwelmed sometimes if i talk to many people at the same time.}}}}$ <br>
 
@@ -99,7 +102,9 @@ ${{\color{#C04C21}\normalsize{\textsf{emotional shifts}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{sovisl hypervigilance}}}}$ <br>
 
 ${{\color{#C04C21}\normalsize{\textsf{overthinker}}}}$ <br>
- 
+
+<hr>
+
 ${{\color{#C04C21}\normalsize{\textsf{suspected depression}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{2-3 traumas}}}}$ <br>
