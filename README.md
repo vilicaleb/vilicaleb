@@ -134,6 +134,9 @@ ${{\color{#C04C21}\tiny{\textsf{2-3 traumas}}}}$ <br>
 <br>
 
 <p align="center">
+${{\color{#C04C21}\normalsize{\textsf{AST⠀⠀UTC+3.}}}}$ <br>
+ 
+<p align="center">
 ${{\color{#C04C21}\normalsize{\textsf{extrovert}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp/so · 927 · rLuan · 44445 · 334554}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{virgo.}}}}$ <br>
