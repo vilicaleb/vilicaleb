@@ -95,11 +95,11 @@ ${{\color{#C04C21}\normalsize{\textsf{maladaptive perfectionism}}}}$ <br>
 
 ${{\color{#C04C21}\normalsize{\textsf{emotional dysregulation}}}}$ <br>
 
+${{\color{#C04C21}\normalsize{\textsf{sovisl hypervigilance}}}}$ <br>
+
 ${{\color{#C04C21}\normalsize{\textsf{rapid mood swing}}}}$ <br>
 
 ${{\color{#C04C21}\normalsize{\textsf{emotional shifts}}}}$ <br>
-
-${{\color{#C04C21}\normalsize{\textsf{sovisl hypervigilance}}}}$ <br>
 
 ${{\color{#C04C21}\normalsize{\textsf{overthinker}}}}$ <br>
 
