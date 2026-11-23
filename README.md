@@ -86,8 +86,6 @@ ${{\color{#C04C21}\tiny{\textsf{please be patient with me, its overwhelming when
 <hr>
 ${{\color{#C04C21}\tiny{\textsf{free to call on weekdays before 5pm}}}}$ <br>
 
-> <sub><sub>IM SO SORRY IM SOMETIMES AWKWARD AROUND WITH FEMS CAUSE I USUALLY INTERACT WITH BOYS, ENBYS, ECT.</sub><sub>
-
 <br>
 
 <div align="center"> <details>
@@ -98,7 +96,7 @@ ${{\color{#C04C21}\normalsize{\textsf{maladaptive perfectionism}}}}$ <br>
 
 ${{\color{#C04C21}\normalsize{\textsf{emotional dysregulation}}}}$ <br>
 
-${{\color{#C04C21}\normalsize{\textsf{sovisl hypervigilance}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{social hypervigilance}}}}$ <br>
 
 ${{\color{#C04C21}\normalsize{\textsf{rapid mood swing}}}}$ <br>
 
