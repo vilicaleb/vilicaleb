@@ -165,6 +165,9 @@ ${{\color{#C04C21}\tiny{\textsf{if you dont like one, lmk i will be careful from
 <sub><sub> ${{\color{#C04C21}\tiny{\textsf{i like being degraded and called a good boy by my friends, ok sorry i dont think anyone should know this shit.}}}}$ </sub><sub> <br>
 
 <br>
+<p align="center">
+<img width="1000" height="1977" alt="image" src="https://github.com/user-attachments/assets/7715171a-e5e3-470b-828e-258e93bc8242" />
+<br>
 </details>
 <!-- about me -->
 
