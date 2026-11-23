@@ -84,7 +84,9 @@ ${{\color{#C04C21}\tiny{\textsf{im really overwelmed sometimes if i talk to many
 ${{\color{#C04C21}\tiny{\textsf{please be patient with me, its overwhelming when people rush me.}}}}$ <br>
 
 <hr>
+
 ${{\color{#C04C21}\tiny{\textsf{free to call on weekdays before 5pm}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{ellernate, kc, asami fictionkin. doubles are fucking ok to interact pls}}}}$ <br>
 
 <br>
 
@@ -141,20 +143,20 @@ ${{\color{#C04C21}\normalsize{\textsf{AST⠀⠀UTC+3.}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{extrovert}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp/so · 927 · rLuan · 44445 · 334554}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{virgo.}}}}$ <br>
+ 
+<br>
 
 <p align="center">
 ${{\color{#C04C21}\normalsize{\textsf{in a relationship with 3}}}}$ <br>
- 
+
+<br>
+
 <p align="center">
 ${{\color{#C04C21}\normalsize{\textsf{afab⠀⠀transgender⠀⠀gay⠀⠀asexual⠀⠀tlt.}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{strictly male terms⠀⠀⠀⠀gender neutral is fine.}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{HE/HIM, SPEC/SPECTER, SO/SOUL, PRINCE/PRINCESELF}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{scott⠀⠀leo⠀⠀caden⠀⠀caleb⠀⠀isaac}}}}$ <br>
-> ${{\color{#C04C21}\tiny{\textsf{i dont use isaac anymore but its fine i guess.}}}}$ <br>
-
-
-${{\color{#C04C21}\normalsize{\textsf{ellernate and asami fictionkin, doubles are very welcome.}}}}$ <br>
-
+${{\color{#C04C21}\tiny{\textsf{i dont use isaac anymore but its fine i guess.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{i like every ship in mm12.}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{if you dont like one, lmk i will be careful from mentioning one.}}}}$ <br>
