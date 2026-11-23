@@ -142,7 +142,7 @@ ${{\color{#C04C21}\normalsize{\textsf{extrovert}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp/so · 927 · rLuan · 44445 · 334554}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{virgo.}}}}$ <br>
 
-${{\color{#C04C21}\normalsize{\textsf{male terms⠀⠀or⠀⠀gender neutral terms only.}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{strictly male terms⠀⠀⠀⠀gender neutral is fine.}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{HE/HIM, SPEC/SPECTER, SO/SOUL, FI/FIRE, PRINCE/PRINCES}}}}$ <br>
 
 <p align="center">
