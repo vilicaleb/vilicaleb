@@ -149,7 +149,8 @@ ${{\color{#C04C21}\normalsize{\textsf{in a relationship with 3}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{afab⠀⠀transgender⠀⠀gay⠀⠀asexual⠀⠀tlt.}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{strictly male terms⠀⠀⠀⠀gender neutral is fine.}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{HE/HIM, SPEC/SPECTER, SO/SOUL, PRINCE/PRINCESELF}}}}$ <br>
-${{\color{#C04C21}\normalsize{\textsf{hello hi the names is scott or leo [drooling face]}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{scott⠀⠀leo⠀⠀caden⠀⠀caleb⠀⠀isaac}}}}$ <br>
+> ${{\color{#C04C21}\tiny{\textsf{i dont use isaac anymore but its fine i guess.}}}}$ <br>
 
 
 ${{\color{#C04C21}\normalsize{\textsf{ellernate and asami fictionkin, doubles are very welcome.}}}}$ <br>
