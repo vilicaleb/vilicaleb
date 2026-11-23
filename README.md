@@ -146,7 +146,7 @@ ${{\color{#C04C21}\normalsize{\textsf{strictly male terms⠀⠀⠀⠀gender neut
 ${{\color{#C04C21}\normalsize{\textsf{HE/HIM, SPEC/SPECTER, SO/SOUL, FI/FIRE, PRINCE/PRINCES}}}}$ <br>
 
 <p align="center">
-${{\color{#C04C21}\normalsize{\textsf{gay⠀⠀transgender⠀⠀tlt⠀⠀fictoromantic.}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{afab⠀⠀transgender⠀⠀gay⠀⠀asexual⠀⠀tlt.}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{in a relationship with 3}}}}$ <br>
 
 ${{\color{#C04C21}\normalsize{\textsf{ellernate and asami fictionkin, doubles are very welcome.}}}}$ <br>
