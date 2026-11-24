@@ -198,7 +198,6 @@ ${{\color{#C04C21}\tiny{\textsf{ABLEISTS}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{SEXISTS}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{HOMOPHOBES/TRANSPHOBES/QUEERPHOBES}}}}$ <br>
 
-
 ${{\color{#C04C21}\tiny{\textsf{AI ARTISTS}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{people who makes rape/sa jokes.}}}}$ <br>
