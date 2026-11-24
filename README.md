@@ -166,7 +166,7 @@ ${{\color{#C04C21}\tiny{\textsf{if you dont like one, lmk i will be careful from
 
 <br>
 <p align="center">
-<img width="1000" alt="image" src="https://github.com/user-attachments/assets/7715171a-e5e3-470b-828e-258e93bc8242" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/7715171a-e5e3-470b-828e-258e93bc8242" />
 <br>
 </details>
 <!-- about me -->
