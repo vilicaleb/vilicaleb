@@ -22,7 +22,7 @@ ${{\color{#C04C21}\tiny{\textsf{do not take heavy inspo on my readme.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{bmf if you like mm12 or have the same interest.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{im not interested in the lab rp / medplay community on tiktok anymore.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{i follow back late in my alt due to me doing other stuff outside sorry lol.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{i do not condone caleb244s actions at all}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{i am aware hes a fuckass messed up bad person.}}}}$ <br>
