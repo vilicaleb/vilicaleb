@@ -245,9 +245,9 @@ ${{\color{#C04C21}\tiny{\textsf{do not call me “dear” please it triggers me.
 <br><br>
 
 <p align="center">
-<a href="https://www.tumblr.com/welikeleo"><picture><img width="80" alt="image" src="https://github.com/user-attachments/assets/26b734ec-444a-4a5f-89f2-55d3cc8fb037" /></picture> </a>
-<a href="https://pronouns.cc/@vilicaleb"><picture><img width="80" alt="image" src="https://github.com/user-attachments/assets/85f61b24-28d5-4e13-ba1f-5e9a82f7eb56" /></picture> </a>
-<a href="https://en.pronouns.page/@vilibyte"><picture><img width="80" alt="image" src="https://github.com/user-attachments/assets/1860f004-2761-44f4-881b-166d4923ccbf" /></picture> </a>
+<a href="https://www.tumblr.com/welikeleo"><picture><img width="150" alt="image" src="https://github.com/user-attachments/assets/26b734ec-444a-4a5f-89f2-55d3cc8fb037" /></picture> </a>
+<a href="https://pronouns.cc/@vilicaleb"><picture><img width="150" alt="image" src="https://github.com/user-attachments/assets/85f61b24-28d5-4e13-ba1f-5e9a82f7eb56" /></picture> </a>
+<a href="https://en.pronouns.page/@vilibyte"><picture><img width="150" alt="image" src="https://github.com/user-attachments/assets/1860f004-2761-44f4-881b-166d4923ccbf" /></picture> </a>
 
 <br><br>
 
