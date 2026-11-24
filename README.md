@@ -1,5 +1,5 @@
 <p align="center">
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/42fdf66c-9bdb-46f5-81e1-3fa521ef78bb" />
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/42fdf66c-9bdb-46f5-81e1-3fa521ef78bb" />
 
 <br><br>
 
@@ -41,7 +41,7 @@ ${{\color{#C04C21}\tiny{\textsf{i am aware hes a fuckass messed up bad person.}}
 
 <br><br>
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/f8ee21fc-fbac-4024-a3fa-fd6e46858c04" />
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/f8ee21fc-fbac-4024-a3fa-fd6e46858c04" />
 
 <br><br>
 
@@ -53,9 +53,9 @@ ${{\color{#C04C21}\Huge{\textsf{⠀⠀⠀⠀⠀⠀⠀  𝙑𝙄𝙇𝙄𝘾𝘼�
 <br><br>
 
 <p align="center">
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/f17398e2-fbe1-4074-a61f-689dd3671e81" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/f17398e2-fbe1-4074-a61f-689dd3671e81" />
 
-<br>
+<br><br>
 
 <!-- before you interact-->
 <p align="left">
@@ -238,7 +238,7 @@ ${{\color{#C04C21}\tiny{\textsf{do not call me “dear” please it triggers me.
 
 <br><br>
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/c73727bf-9dd1-4bd4-af67-819ebee130ed" />
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/c73727bf-9dd1-4bd4-af67-819ebee130ed" />
 
 <br><br>
 
@@ -249,11 +249,9 @@ ${{\color{#C04C21}\tiny{\textsf{do not call me “dear” please it triggers me.
 
 <br><br>
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/2c6623ca-43a3-4f92-af03-148a2449c931" />
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/2c6623ca-43a3-4f92-af03-148a2449c931" />
 
 <br><br>
-
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/5007689f-2cc0-48d7-a7c7-ba08a4ca909b" />
 
 ![](https://komarev.com/ghpvc/?username=vilicalebb&label=1+view+=+1+free+tuna+for+me.&color=c48326&style=flat)
 
