@@ -72,6 +72,8 @@ ${{\color{#C04C21}\tiny{\textsf{if you use typing quirks im fine with it. though
 
 ${{\color{#C04C21}\tiny{\textsf{i really like cuddling, please let me know if you dont want me sitting too near.}}}}$ <br>
 
+${{\color{#C04C21}\tiny{\textsf{ellernate, kc, asami fictionkin. doubles are fucking ok to interact pls}}}}$ <br>
+
 ${{\color{#C04C21}\tiny{\textsf{i dont always make sexual jokes, not my thing haha.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{i dont really show excitement in text.}}}}$ <br>
@@ -87,7 +89,7 @@ ${{\color{#C04C21}\tiny{\textsf{please be patient with me, its overwhelming when
 <hr>
 
 ${{\color{#C04C21}\tiny{\textsf{free to call on weekdays before 5pm}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{ellernate, kc, asami fictionkin. doubles are fucking ok to interact pls}}}}$ <br>
+<sub> ${{\color{#C04C21}\tiny{\textsf{mon, tue, wed, thu, sometimes sat.}}}}$ <sub> <br>
 
 <br>
 
