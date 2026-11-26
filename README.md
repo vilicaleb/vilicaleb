@@ -13,8 +13,8 @@ ${{\color{#C04C21}\Huge{\textsf{゛ ⸝⸝⠀⠀⠀⠀⠀gg.⠀⠀⋮⠀⠀𝒸a
 <div align="center"> <details>
 <summary>${{\color{#C04C21}\huge{\textsf{𓏏𓏏⠀⠀⠀⠀◠⠀⠀⠀⠀𝒻ყ𝒾⠀⠀ `⠀⠀⠀⠀✚}}}}$</summary> 
 <br>
-
-NOT A CALEB244 FICTIONKIN.<br>
+ 
+> i do not fictionkin caleb244 at all but its fine to call me caleb i guess?? <br>
 
 > cadenlyscott everywhere i think. <br>
 
