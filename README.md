@@ -40,8 +40,7 @@ ${{\color{#C04C21}\Huge{\textsf{゛ ⸝⸝⠀⠀⠀⠀⠀gg.⠀⠀⋮⠀⠀𝒸a
 
 <br><br>
 
-<img width="1000" alt="image" src="https://github.com/user-attachments/assets/1216555c-ec3b-4766-a72e-1f55edb5c491" />
-
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/e69aef95-c853-4ee3-ab56-5836aacc68ec" />
 
 <br><br>
 
