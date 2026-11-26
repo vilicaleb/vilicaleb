@@ -274,6 +274,3 @@ ${{\color{#C04C21}\tiny{\textsf{do not call me “dear” please it triggers me.
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31eom75drrelz6g7btz64vg363ou&cover_image=true&theme=spotify-embed&show_offline=true&background_color=ffffff&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false&mode=light)](https://github.com/kittinan/spotify-github-profile)
 
 <img width="100" alt="image" src="https://github.com/user-attachments/assets/27991716-d524-44a8-ab64-a34fa0082a47" />
-
-<p align="right">
-![](https://komarev.com/ghpvc/?username=vilicalebb&label=1+view+=+1+free+tuna+for+me.&color=c48326&style=flat)
