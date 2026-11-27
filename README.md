@@ -240,7 +240,7 @@ ${{\color{#C04C21}\tiny{\textsf{do not call me “dear” please it triggers me.
 <!-- boundaries -->
 
 <!-- stamps -->
-<div align="justified"> <details>
+<div align="left"> <details>
 <summary>${{\color{#C04C21}\huge{\textsf{𓏏𓏏⠀⠀⠀⠀stamps}}}}$</summary> 
 <br>
  
