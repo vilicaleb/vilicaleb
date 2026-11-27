@@ -229,7 +229,7 @@ ${{\color{#C04C21}\tiny{\textsf{do not treat me like im your f/o, im taken and i
 
 ${{\color{#C04C21}\tiny{\textsf{do not force your religion up my throat, sharing info about it is fine.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{do not make nsfw jokes unless youre a friend and know when to stop.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{do not make sexual jokes unless youre a friend and know when to stop.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{do not flirt with me at ALL unless youre my partner.}}}}$ <br>
 
