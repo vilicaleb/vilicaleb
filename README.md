@@ -239,16 +239,29 @@ ${{\color{#C04C21}\tiny{\textsf{do not call me “dear” please it triggers me.
 </details>
 <!-- boundaries -->
 
+<!-- stamps -->
+<div align="justified"> <details>
+<summary>${{\color{#C04C21}\huge{\textsf{𓏏𓏏⠀⠀⠀⠀stamps}}}}$</summary> 
+<br>
+ 
+> image here idk wait <br>
+
+<br>
+</details>
+<!-- stamps -->
+
 <br><br>
 
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/c73727bf-9dd1-4bd4-af67-819ebee130ed" />
 
 <br><br>
 
+<!-- clickers -->
 <p align="center">
 <a href="https://www.tumblr.com/cadenlyscott"><picture><img width="150" alt="image" src="https://github.com/user-attachments/assets/26b734ec-444a-4a5f-89f2-55d3cc8fb037" /></picture> </a>
 <a href="https://pronouns.cc/@vilicaleb"><picture><img width="150" alt="image" src="https://github.com/user-attachments/assets/85f61b24-28d5-4e13-ba1f-5e9a82f7eb56" /></picture> </a>
 <a href="https://en.pronouns.page/@vilibyte"><picture><img width="150" alt="image" src="https://github.com/user-attachments/assets/1860f004-2761-44f4-881b-166d4923ccbf" /></picture> </a>
+<!-- clickers -->
 
 <br><br>
 
