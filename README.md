@@ -243,7 +243,10 @@ ${{\color{#C04C21}\tiny{\textsf{do not call me “dear” please it triggers me.
 <div align="left"> <details>
 <summary>${{\color{#C04C21}\huge{\textsf{𓏏𓏏⠀⠀⠀⠀stamps}}}}$</summary> 
 <br>
- 
+
+<img width="99" alt="image" src="https://github.com/user-attachments/assets/df1e3e4b-40db-4737-b061-5af7375259ac" />
+<img width="99" alt="image" src="https://github.com/user-attachments/assets/bb689476-444f-417d-8b31-e3baf079c8a1" />
+
 > image here idk wait <br>
 
 <br>
