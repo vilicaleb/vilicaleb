@@ -70,7 +70,7 @@ ${{\color{#C04C21}\tiny{\textsf{if you use typing quirks im fine with it. though
 
 ${{\color{#C04C21}\tiny{\textsf{i really like cuddling, please let me know if you dont want me sitting too near.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{ellernate, kc, asami fictionkin. doubles are fucking ok to interact pls}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{i CAN be really kind or mean depending on my first impression of you.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{i dont always make sexual jokes, not my thing haha.}}}}$ <br>
 
