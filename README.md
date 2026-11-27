@@ -146,7 +146,7 @@ ${{\color{#C04C21}\normalsize{\textsf{AST⠀⠀UTC+3.}}}}$ <br>
 
 <p align="center">
 ${{\color{#C04C21}\normalsize{\textsf{extrovert}}}}$ <br>
-${{\color{#C04C21}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp/so · 927 · rLuan}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{isfp · eii · sp9 9w8 · sp/so · 927 · rLuan}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{virgo.}}}}$ <br>
  
 <br>
