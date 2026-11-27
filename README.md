@@ -68,6 +68,8 @@ ${{\color{#C04C21}\tiny{\textsf{english speaker.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{if you use typing quirks im fine with it. though i sometimes dont understand so i may ask for translation.}}}}$ <br>
 
+${{\color{#C04C21}\tiny{\textsf{i am not a tsundere or whatever, NO clue how i act like one bud?? WHAT makes you think i am.}}}}$ <br>
+
 ${{\color{#C04C21}\tiny{\textsf{i really like cuddling, please let me know if you dont want me sitting too near.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{i CAN be really kind or mean depending on my first impression of you.}}}}$ <br>
