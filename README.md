@@ -247,6 +247,10 @@ ${{\color{#C04C21}\tiny{\textsf{do not call me “dear” please it triggers me.
 <img width="99" alt="image" src="https://github.com/user-attachments/assets/df1e3e4b-40db-4737-b061-5af7375259ac" />
 <img width="99" alt="image" src="https://github.com/user-attachments/assets/bb689476-444f-417d-8b31-e3baf079c8a1" />
 
+<img width="99" alt="image" src="https://github.com/user-attachments/assets/691492c7-601b-4a3f-bffe-a9797eecbe8b" />
+<img width="99" alt="image" src="https://github.com/user-attachments/assets/ff8e5250-0cfc-408a-866d-960ae0cf6002" />
+
+
 > image here idk wait <br>
 
 <br>
