@@ -88,7 +88,7 @@ ${{\color{#C04C21}\tiny{\textsf{please be patient with me, its overwhelming when
 
 <hr>
 
-${{\color{#C04C21}\tiny{\textsf{free to call on weekdays before 5pm}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{very free on weekdays before 5pm}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{mon, tue, wed, thu, sometimes sat.}}}}$ <br>
 
 <br>
