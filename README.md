@@ -8,7 +8,7 @@ ${{\color{#C04C21}\Huge{\textsf{⠀⠀𓎢𓎠𓎡⠀⠀𝓋ı𝓁ı𝒸ą𝓁ɛ
 ${{\color{#C04C21}\tiny{\textsf{do not call me ipineapple /srs}}}}$ <br>
 ${{\color{#C04C21}\Huge{\textsf{゛ ⸝⸝⠀⠀⠀⠀⠀gg.⠀⠀⋮⠀⠀𝒸aleb²⁴⁴⠀⠀⠀⠀⌣⌣⠀⠀⠀⿻ }}}}$ <br>
 
-<br>
+<br><br>
 
 <div align="center"> <details>
 <summary>${{\color{#C04C21}\huge{\textsf{𓏏𓏏⠀⠀⠀⠀◠⠀⠀⠀⠀𝒻ყ𝒾⠀⠀ `⠀⠀⠀⠀✚}}}}$</summary> 
